@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "source": "external-test-file",
+  "updatedAt": "2026-10-22T00:00:00Z",
+  "requests": [
+    {
+      "id": "demo-001",
+      "name": "Demo User One",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-04",
+      "type": "PTO"
+    },
+    {
+      "id": "demo-002",
+      "name": "Demo User Two",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "type": "OOO"
+    }
+  ]
+}
